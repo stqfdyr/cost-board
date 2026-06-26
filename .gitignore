@@ -1,0 +1,17 @@
+# Binaries
+cost-board
+cost-board-*
+*.exe
+
+# Frontend build artifacts
+web/node_modules/
+web/dist/
+
+# Runtime data
+data/
+
+# OS
+.DS_Store
+
+# IDE
+*.tsbuildinfo
